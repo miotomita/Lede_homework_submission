@@ -1,6 +1,6 @@
 # Lede_homework_submission
  
-<u>**HOMEWORK**</u><br>
+**<u>HOMEWORK</u>**<br>
 homework submission repo for the [Lede Program 2022](https://ledeprogram.com/)<br>
 <br>
 <u>**AFTER SUBMISSION**</u><br>
