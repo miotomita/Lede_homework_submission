@@ -1,0 +1,168 @@
+inspection_no,date,status,description,url,num_violations
+13821288,2022-05-16,PASSED,PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13821288,0
+13813188,2022-05-16,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13813188,0
+13808208,2022-05-13,FAILED,PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13808208,1
+13748085,2022-04-25,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13748085,2
+13684797,2022-03-21,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13684797,2
+13633105,2022-02-10,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13633105,2
+13617993,2021-12-06,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13617993,4
+13587202,2021-10-25,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13587202,2
+12941650,2021-08-23,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12941650,4
+13528258,2021-08-09,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13528258,2
+13346279,2021-03-03,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13346279,20
+13175960,2020-11-30,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=13175960,10
+12770690,2019-05-30,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12770690,0
+12670542,2019-05-21,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12670542,6
+12277260,2018-08-27,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12277260,3
+12418304,2018-05-30,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12418304,0
+12226018,2017-06-21,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12226018,0
+12136453,2017-06-21,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12136453,0
+11228963,2017-06-19,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11228963,1
+12101602,2017-04-21,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12101602,0
+12214968,2017-03-22,PASSED,SIGN ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12214968,0
+12051724,2016-12-21,FAILED,CONSERVATION COMPLAINT INSPECT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=12051724,1
+11750904,2016-11-03,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11750904,0
+11986288,2016-09-01,PASSED,REFRIGERATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11986288,0
+11787131,2016-08-24,PASSED,REFRIGERATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11787131,0
+11835125,2016-08-02,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11835125,0
+11933971,2016-08-02,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11933971,0
+11413712,2015-10-23,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11413712,0
+11623884,2015-08-28,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11623884,0
+11244373,2015-07-28,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11244373,0
+11014536,2015-07-28,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11014536,0
+11542833,2015-07-20,PASSED,SIGN ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11542833,0
+11598664,2015-06-02,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11598664,4
+11497331,2015-05-20,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11497331,6
+11224848,2015-02-27,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11224848,3
+11074793,2014-10-15,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11074793,0
+10934450,2014-09-19,PASSED,STRUCTURAL SIGN INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10934450,0
+10934449,2014-09-19,PASSED,SIGN PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10934449,0
+10995934,2014-04-04,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10995934,0
+10895288,2013-12-18,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10895288,0
+10789690,2013-12-04,PASSED,REFRIGERATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10789690,0
+10775620,2013-10-22,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10775620,0
+10912983,2013-10-01,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10912983,0
+11002791,2013-10-01,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=11002791,1
+10715924,2013-08-21,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10715924,4
+10270889,2012-10-16,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10270889,1
+10681952,2012-08-28,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10681952,0
+10740771,2012-08-28,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10740771,0
+10560743,2012-05-23,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10560743,0
+9995366,2012-04-09,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9995366,0
+10411517,2012-03-07,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10411517,0
+10530867,2012-02-21,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10530867,1
+10230414,2011-10-27,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10230414,1
+10167186,2011-09-12,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10167186,0
+10155814,2011-07-13,PASSED,VENT ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10155814,0
+9952632,2011-05-05,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9952632,6
+10089951,2011-02-22,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10089951,0
+10002293,2011-01-12,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10002293,0
+10002295,2011-01-12,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=10002295,1
+2374203,2010-10-04,PASSED,REFRIGERATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2374203,0
+9974938,2010-09-09,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9974938,4
+2677167,2010-09-09,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2677167,1
+9762140,2010-09-02,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9762140,1
+9959603,2010-06-30,FAILED,CONSERVATION COMPLAINT INSPECT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9959603,1
+2688652,2010-06-15,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2688652,2
+9748377,2010-02-11,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9748377,0
+2354095,2009-12-29,PASSED,PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2354095,0
+2639899,2009-08-21,PASSED,VENT ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2639899,0
+1896682,2009-07-27,CLOSED,ELECTRICAL PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1896682,0
+2576872,2009-03-25,PASSED,DOB VENT/FURNACE INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2576872,0
+2565707,2009-03-25,PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2565707,0
+2576870,2009-03-25,PASSED,ELECTRICAL PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2576870,0
+2408216,2009-03-25,PASSED,DOB NEW CONSTRUCTION INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2408216,0
+2648465,2009-03-04,FAILED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2648465,4
+2559724,2009-01-30,PASSED,DOB VENT/FURNACE INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2559724,0
+2408214,2009-01-30,PARTIAL PASSED,DOB VENT/FURNACE INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2408214,0
+2408213,2009-01-30,PARTIAL PASSED,ELECTRICAL PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2408213,0
+2559720,2009-01-29,PASSED,DOB VENT/FURNACE INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2559720,0
+2565706,2009-01-26,PARTIAL PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2565706,0
+2008609,2009-01-23,PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2008609,0
+2561851,2009-01-21,PASSED,BOILER PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2561851,0
+2561849,2009-01-21,PASSED,BOILER PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2561849,0
+2561850,2009-01-21,PASSED,BOILER PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2561850,0
+2564084,2009-01-21,PASSED,BOILER PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2564084,0
+2510789,2009-01-21,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2510789,0
+2314825,2009-01-15,PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2314825,0
+2020265,2009-01-15,PASSED,DOB VENT/FURNACE INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2020265,0
+1613908,2009-01-15,PARTIAL PASSED,DOB VENT/FURNACE INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613908,0
+1613901,2009-01-15,PARTIAL PASSED,DOB VENT/FURNACE INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613901,0
+2020266,2009-01-15,PASSED,DOB NEW CONSTRUCTION INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2020266,0
+2017661,2009-01-15,PASSED,DOB NEW CONSTRUCTION INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2017661,0
+2017660,2009-01-15,PASSED,DOB NEW CONSTRUCTION INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2017660,0
+1839870,2009-01-15,PASSED,BLDG_PERM IRON PERMIT INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1839870,0
+1840048,2009-01-15,PASSED,BLDG_PERM IRON PERMIT INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1840048,0
+2020263,2009-01-15,PASSED,ELECTRICAL PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2020263,0
+1613904,2009-01-15,PASSED,ELECTRICAL PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613904,0
+1613897,2009-01-15,PASSED,ELECTRICAL PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613897,0
+2020264,2009-01-15,PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2020264,0
+1613906,2009-01-15,PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613906,0
+1613907,2008-12-31,PASSED,DOB REFRIGERATION INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613907,0
+1613900,2008-12-31,PASSED,DOB REFRIGERATION INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613900,0
+2391718,2008-11-25,PASSED,PUMP ACCEPTANCE TEST,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2391718,0
+2566069,2008-11-25,PASSED,PUMP ACCEPTANCE TEST,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2566069,0
+2119488,2008-10-22,FAILED,REFRIGERATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2119488,1
+2261834,2008-08-29,PARTIAL PASSED,PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2261834,0
+2314122,2008-07-11,PARTIAL PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2314122,0
+1894630,2008-07-08,PARTIAL PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1894630,0
+2168070,2008-06-02,PASSED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2168070,0
+2154189,2008-05-14,PASSED,VENT ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2154189,0
+2074609,2008-04-09,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2074609,0
+2091277,2008-04-04,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2091277,0
+1966669,2008-02-27,PARTIAL PASSED,PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1966669,0
+1613902,2007-11-01,PARTIAL PASSED,DOB NEW CONSTRUCTION INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613902,0
+1871104,2007-11-01,PARTIAL PASSED,DOB NEW CONSTRUCTION INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1871104,0
+1943916,2007-08-15,PARTIAL PASSED,PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1943916,0
+1951026,2007-07-31,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1951026,0
+1973677,2007-07-31,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1973677,0
+2008607,2007-07-31,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=2008607,0
+1957863,2007-07-13,PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1957863,0
+1937982,2007-07-13,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1937982,0
+1768615,2007-06-21,PASSED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1768615,0
+1912893,2007-06-13,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1912893,0
+1882042,2007-05-25,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1882042,0
+1621186,2007-05-16,PARTIAL PASSED,PERMIT INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1621186,0
+1613899,2007-05-10,PARTIAL PASSED,DOB PLUMBING INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613899,0
+1881043,2007-04-20,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1881043,0
+1613909,2007-04-06,PARTIAL PASSED,DOB NEW CONSTRUCTION INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613909,0
+1652466,2007-04-06,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1652466,0
+1749666,2007-03-08,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1749666,0
+1664779,2007-02-13,PARTIAL PASSED,BLDG_PERM IRON PERMIT INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1664779,0
+1664784,2007-02-13,PARTIAL PASSED,BLDG_PERM IRON PERMIT INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1664784,0
+1613903,2007-02-07,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613903,0
+1613910,2007-02-05,PARTIAL PASSED,CONSTRUCTION EQUIPMENT PERMIT,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613910,0
+1613905,2006-12-21,PARTIAL PASSED,BLDG_PERM IRON PERMIT INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613905,0
+1613898,2006-12-21,PARTIAL PASSED,BLDG_PERM IRON PERMIT INSP,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1613898,0
+1113224,2006-12-13,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1113224,0
+1340193,2006-08-25,PASSED,REFRIGERATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1340193,0
+1332657,2006-06-20,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1332657,0
+1396179,2006-06-01,PASSED,VENT ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1396179,0
+1242229,2006-03-10,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1242229,0
+1064281,2005-07-14,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=1064281,0
+833206,2005-06-29,PASSED,REFRIGERATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=833206,0
+965745,2005-06-25,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=965745,0
+916641,2005-06-17,PASSED,CONSERVATION ANNUAL,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=916641,0
+951019,2005-03-21,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=951019,0
+779987,2004-07-08,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=779987,0
+745379,2004-07-08,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=745379,0
+734609,2004-06-07,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=734609,0
+577179,2004-02-20,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=577179,0
+495435,2003-07-07,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=495435,0
+465051,2003-06-25,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=465051,0
+251124,2003-06-25,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=251124,0
+417334,2003-05-30,PASSED,SIGN ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=417334,0
+458503,2003-03-05,FAILED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=458503,2
+440211,2003-02-10,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=440211,0
+707841,2002-10-02,CLOSED,SIGN ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=707841,0
+200272,2002-10-02,PASSED,SIGN ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=200272,0
+251273,2002-07-11,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=251273,0
+245364,2002-07-10,PASSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=245364,0
+175477,2002-02-16,PASSED,BOILER ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=175477,0
+9639744,2001-12-22,CLOSED,ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9639744,1
+130127,2001-08-20,CLOSED,FIRE PREVENTION PUMPS LEGACY,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=130127,0
+25836,2001-07-09,PASSED,SIGN ANNUAL INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=25836,0
+130126,1997-05-09,CLOSED,FIRE PREVENTION PUMPS LEGACY,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=130126,0
+9475223,1997-01-28,CLOSED,ELEVATOR LEGACY INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9475223,0
+9457580,1997-01-21,CLOSED,ELEVATOR LEGACY INSPECTION,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=9457580,0
+130125,1996-03-21,CLOSED,FIRE PREVENTION PUMPS LEGACY,https://webapps1.chicago.gov/buildingrecords/inspectiondetails?addr=364923&insp=130125,0
